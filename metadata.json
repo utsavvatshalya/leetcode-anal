@@ -1,0 +1,6 @@
+{
+  "name": "LeetCode Pattern Analyzer",
+  "description": "An AI-powered dashboard that analyzes LeetCode coding patterns, difficulty distribution, and topic coverage to generate customized job role readiness ratings, gap-filling roadmaps, and automated daily study recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
